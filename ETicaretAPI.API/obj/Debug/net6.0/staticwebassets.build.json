@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "Ezq31Nr8udVcUUHbP/WY3v0mkUgmIGlIdAp0gZ/ShZ8=",
+  "Source": "ETicaretAPI.API",
+  "BasePath": "_content/ETicaretAPI.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ETicaretAPI.API\\wwwroot",
+      "Source": "ETicaretAPI.API",
+      "ContentRoot": "C:\\Users\\seyhm\\Desktop\\Desktop\\.Net Core 6\\eCommerceApp\\ETicaretAPI\\ETicaretAPI.API\\wwwroot\\",
+      "BasePath": "_content/ETicaretAPI.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\seyhm\\Desktop\\Desktop\\.Net Core 6\\eCommerceApp\\ETicaretAPI\\ETicaretAPI.API\\wwwroot\\resources\\files\\Screenshot_1659027517-6f96c855-c60d-4dc2-a1cb-6652a0546c82.png",
+      "SourceId": "ETicaretAPI.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\seyhm\\Desktop\\Desktop\\.Net Core 6\\eCommerceApp\\ETicaretAPI\\ETicaretAPI.API\\wwwroot\\",
+      "BasePath": "_content/ETicaretAPI.API",
+      "RelativePath": "resources/files/Screenshot_1659027517-6f96c855-c60d-4dc2-a1cb-6652a0546c82.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\resources\\files\\Screenshot_1659027517-6f96c855-c60d-4dc2-a1cb-6652a0546c82.png"
+    }
+  ]
+}
